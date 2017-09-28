@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9712a471ef4ff4869a3c8c8524f38483
+timeCreated: 1506455402
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gravity
+  fontNames:
+  - Gravity
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
